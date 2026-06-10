@@ -1,0 +1,6 @@
+title: HanByeolll Dev Blog
+description: 웹개발자 김한별의 개발 공부 기록과 포트폴리오
+theme: minima
+
+plugins:
+  - jekyll-feed
