@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: #f7f7f7;
+}
+
+header {
+  padding: 24px;
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+nav a {
+  margin-right: 16px;
+  color: #333;
+  text-decoration: none;
+}
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.hero {
+  padding: 40px;
+  background: white;
+  border-radius: 16px;
+}
+
+section {
+  margin-bottom: 32px;
+}
+
+footer {
+  padding: 24px;
+  text-align: center;
+  color: #777;
+}
